@@ -1,0 +1,6 @@
+{
+  "name": "POLYGLOT JOVEN",
+  "description": "Plataforma educativa gratuita para que jóvenes de todo el mundo aprendan idiomas de manera fácil, interactiva y divertida. ¡Aprende idiomas, abre tu mundo!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
